@@ -1,5 +1,5 @@
 #ISIS1225 - Librerias de soporte
-
+|Reto 3 - Estructuras de Datos y Algoritmos|
 | Integrante 1 | Integrante 2 |
 | :-------------: | :-------------: |
 | Nicolas Aparicio Claros  | Isai Daniel Chacón Silva  |
